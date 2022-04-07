@@ -23,6 +23,15 @@ ${OrderDetail.realPrice}
 <p/>
 ${OrderDetail.createdAt}
 <p/>
+<p/>
+${OrderDetail.createdAt}
+<p/>
+${OrderDetail.createdAt}
+<p/>
+${OrderDetail.createdAt}
+<p/>
+${OrderDetail.createdAt}
+
 </c:forEach>
 </body>
 </html>
