@@ -22,8 +22,6 @@ ${OrderDetail.quantity}
 ${OrderDetail.realPrice}
 <p/>
 ${OrderDetail.createdAt}
-<p/>
-${OrderDetail.createdAt}
 
 </c:forEach>
 </body>
